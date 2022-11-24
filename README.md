@@ -19,7 +19,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
-![image](rap.png)
+![rap](https://user-images.githubusercontent.com/94980736/203708289-dc251bfe-a481-4c10-b7e8-a5b26da1d248.png)
+
 
 
 ## Program
