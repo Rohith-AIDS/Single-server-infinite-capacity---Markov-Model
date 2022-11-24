@@ -19,7 +19,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
-![image](C:\Users\vruser\Pictures\rap.png)
+![image](rap.png)
 
 
 ## Program
